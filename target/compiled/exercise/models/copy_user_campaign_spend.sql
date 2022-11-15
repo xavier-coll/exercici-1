@@ -1,0 +1,1 @@
+select * from dwh-adev-core.ae_challenge_data.ae_campaign_spend
